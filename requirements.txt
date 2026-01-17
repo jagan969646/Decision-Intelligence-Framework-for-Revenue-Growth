@@ -1,6 +1,4 @@
-pandas
-numpy
-scikit-learn
-statsmodels
-matplotlib
 streamlit
+pandas
+plotly
+Pillow
